@@ -1,8 +1,8 @@
-# Stone · Sheet · Blade — Hand-Sign Showdown
+# Rock · Paper · Scissors — Hand-Sign Showdown
 
 A single-file, no-dependency Rock Paper Scissors game — with two extra game modes thrown in — built in plain HTML, CSS, and JavaScript. Play against the computer, watch an animated "shake and reveal," and keep score across sessions.
 
-**[Open `rock-paper-scissors.html` in any browser to play.](rock-paper-scissors.html)** No install, no build step, no server required.
+Deployment URL : https://rock-paper-scissors-sage-two.vercel.app/
 
 ---
 
