@@ -1,8 +1,14 @@
-# Rock · Paper · Scissors — Hand-Sign Showdown
+# Stone · Sheet · Blade — Hand-Sign Showdown
 
 A single-file, no-dependency Rock Paper Scissors game — with two extra game modes thrown in — built in plain HTML, CSS, and JavaScript. Play against the computer, watch an animated "shake and reveal," and keep score across sessions.
 
 **[Open `rock-paper-scissors.html` in any browser to play.](rock-paper-scissors.html)** No install, no build step, no server required.
+
+---
+
+## Demo Video
+
+https://drive.google.com/file/d/1t2X5M81dtIZsxS9qTXz9m43A5Q5_wf1C/view?usp=sharing
 
 ---
 
@@ -23,7 +29,7 @@ A single-file, no-dependency Rock Paper Scissors game — with two extra game mo
 
 ## How to play
 
-1. Open `https://rock-paper-scissors-sage-two.vercel.app/` in a browser.
+1. Open `rock-paper-scissors.html` in a browser.
 2. Pick a game mode from the tab bar at the top (Rock Paper Scissors is selected by default).
 3. Click one of the three move buttons.
 4. Watch the countdown, then see who wins the round.
